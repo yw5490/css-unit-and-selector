@@ -1,0 +1,22 @@
+/* Comma */
+h1, h2, p {
+    color: purple;
+}
+
+/* Space */
+.image img {
+    width: 50%;
+}
+
+/* > */
+div > p {
+    font-size: 5vh;
+    color: darkgreen;
+}
+
+/* : */
+h1:hover {
+    background-color: bisque;
+    font-size: 5vw;
+}
+
